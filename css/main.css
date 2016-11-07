@@ -1,1 +1,118 @@
-h
+/*Simple Css*/
+body {
+	background-color: #11151C;
+}
+
+.clear {
+	clear: both;
+}
+div {
+	background-color: #4D5E7C;
+	padding-left: 20px;
+}
+header {
+	text-align: center;
+	background-color: #212C3F;
+	font-size: 45px;
+	color: white;
+	font-family: 'Pacifico', cursive;
+		}
+
+div.intro p {
+	color: white;
+	font-size: 25px;
+	display: inline-block;
+	float: left;
+	width: 75%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+div.intro {
+		background-color: #4D5E7C;
+		margin: 20px;
+		}
+/*Div Photo*/
+
+#photo1 {
+	float: right;
+	width: 25%;
+	
+}
+#photo2 {
+	float: right;
+	width: 20%;
+}
+
+
+footer {
+	color: white;
+}
+div.list {
+	padding-left: 20px;
+	background-color: #364256;
+	color: white;
+}
+ul.list li.list {
+	list-style: none;
+	text-align: center;
+	display: inline;
+	padding: 130px;
+}
+/*Div #2*/
+p.list {
+	text-align: center;
+	font-size: 35px;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+}
+p.about {
+	list-style: 
+}
+
+div.About {
+	color: white;
+	font-size: 30px;
+}
+h1.About {
+	font: 35;
+	text-align: center;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+
+/*Div 3*/
+div.right {
+	background-color: #4D5E7C;
+	color: white;
+	font-size: 25px;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+
+h2.right {
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+/*Div 4*/
+div.where {
+	background-color: #4D5E7C;
+	color: white;
+	font-size: 25px;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+
+h3.where {
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+a:hover {
+	color: white;
+}
+a:link {
+	color: white;
+}
+a {
+	color: white;
+	padding: 20px;
+}
